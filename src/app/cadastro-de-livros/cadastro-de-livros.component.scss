@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.cadastro-de-livros {
+  height: 100vh;
+  background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgb(0, 100, 167) 0%, rgb(87, 136, 192) 100%);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.cadastro-title{
+  font-weight: arial;
+  text-align: center;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.center-button {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+.cadastrar-button{
+  background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgb(110, 174, 216) 0%, rgb(104, 155, 214) 100%);
+  width: 100%;
+  font-weight: arial;
+    color: rgb(255, 255, 255);
+}
+
+

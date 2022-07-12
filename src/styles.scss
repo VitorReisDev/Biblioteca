@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.main-button {
+    border-radius: 12px !important;
+    box-shadow: none !important;
+    background: linear-gradient(0deg, rgb(18, 160, 196) 0%, rgb(119, 212, 240) 100%);
+    font-weight: arial;
+    color: white;
+  }
+
+  .main-card {
+    border-radius: 16px !important;
+    box-shadow: none !important;
+    padding: 1.5rem !important;
+  }
